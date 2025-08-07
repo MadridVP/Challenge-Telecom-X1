@@ -1,4 +1,4 @@
-# Challenge-Telecom-X1
+# Challenge ONE Data Science: Telecom X1
 El proyecto es un análisis de la evasión de clientes en el sector de telecomunicaciones.
 
 Objetivos principales: identificar patrones de comportamiento que conducen a la evasión, predecir qué clientes son más propensos a abandonar, y proponer estrategias de retención.
